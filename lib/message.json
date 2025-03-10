@@ -1,0 +1,14 @@
+{
+   "wait": "Loading... 🔍",
+   "daftar": "Hay Ka Kamu Belum Daftar Nih Untuk Menggunakan Fitur Ini Silahkan Daftar Terlebih Dahulu Ketik .daftar nama.umur\nContoh .daftar Haruna.18",
+   "limit": "*Limit Kamu Sudah Habis Tidak Bisa Gunain Fitur Ini*\n*Untuk Nambah Limit Silahkan Ketik*\n*.claim (untuk claim harian)*\n*.hour (untuk claim perjam)*\n*.claimkupon (untuk claim kupon)*\n*.claimuang (untuk claim uang)*\n*.buylimit jumlah (untuk beli limit)*\n*contoh .buylimit 10*\n*atau untuk dapat banyak limit mainkan game bot. lihat ada game apa saja ketik*\n*.menu game*",
+   "banned": "Kamu Telah Di Banned Tidak Bisa Menggunakan Bot\nSilahkan Konfirmasi Ke Owner!",
+   "disable": "Fitur Telah Di Matikan Owner\nChat Owner Untuk Menghidupkanya\nKetik .owner!",
+   "OnlyGroup": "Perintah ini hanya bisa digunakan di grup!",
+   "OnlyPM": "Perintah ini hanya bisa digunakan di private message!",
+   "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup!",
+   "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot!",
+   "BotAdmin": "Jadikan bot admin agar dapat menggunakan perintah ini!",
+   "premium": "Perintah ini khusus user premium!",
+   "groupOnly": "Gunakan Di Group Saja!"
+}
