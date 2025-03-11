@@ -11,7 +11,7 @@ exports.default = {
    }) => {
       if (!text) return m.reply(`Example : ${prefix+command} pria di pantai`);
       m.react('🕒');
-      const response = await (await fetch('https://widipe.com/bingimg?text=' + text)).json();
+      const response = await (await fetch('https://api.siputzx.my.id/api/s/bimg?query=' + text)).json();
       const image = response.result;
       {
          for (let i of image) {
